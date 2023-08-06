@@ -32,6 +32,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
+### My stats :
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dbazarkhanov&theme=2077"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dbazarkhanov&theme=2077"/>
